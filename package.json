@@ -1,0 +1,29 @@
+{
+  "name": "imagedata-to-canvas",
+  "description": "Renders a given ImageData to canvas",
+  "version": "1.0.0",
+  "keywords": [
+    "pq3t48npq034aa",
+    "imageData",
+    "canvas"
+  ],
+  "main": "code.js",
+  "block": {
+    "inputs": {},
+    "outputs": {},
+    "propertyOrder": [
+      "width",
+      "height",
+      "imageData"
+    ],
+    "properties": {
+      "width": {
+        "type": "number"
+      },
+      "height": {
+        "type": "number"
+      },
+      "imageData": {}
+    }
+  }
+}
